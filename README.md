@@ -11,3 +11,6 @@ For more details on the methodology, please refer to the paper:
 Niccolai, A.; Raimondi, A.; Berzi, L.; Baldanzini, N. Investigation of User Behavior in Pedal-Assisted Vehicles: From Field Testing to Driving Cycle. Eng. Proc. 2026, 131, 18. https://doi.org/10.3390/engproc2026131018
 
 If you use this dataset or the driving cycle, please cite the original work using the right reference.
+
+**Funding**
+This work is funded by the European Union—Next Generation EU. “Sustainable Mobility Center (Centro Nazionale per la Mobilità Sostenibile—CNMS)”, M4C2—Investment 1.4, Project Code CN_00000023, CUP B13C22001000001.
